@@ -6,7 +6,7 @@ Olá, meu nome é Luiz Miguel.
 Recentemente, eu estava querendo excluir alguns amigos no League of Legends, só que.. ERAM 260 AMIGOS! Eu não queria excluir um por um, manualmente. 
 Então, decidi criar um script para excluir esses amigos. 
 
-Usando a linguagem Python, criei um codigo simples com as bibliotecas: PySimpleGUI, time, pyautogui.
+Usando a linguagem Python, criei um codigo simples com as bibliotecas: PySimpleGUI, time e pyautogui.
 Criei um arquivo chamado 'script' para desenvolver umas funções do pyautogui, com a intenção de deixar o loop mais prático e deixar o código um pouco mais bonito.
 ___________________________________________________________________________________________________________________________________________________________________
 

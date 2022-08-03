@@ -16,7 +16,7 @@ Caso você esteja rodando o script e de repente, ele para de excluir os amigos, 
 conta fantasma (conta sem icone). Após ter feito a verificação, inicie o programa de novo.
 
 Como usar:
-Para usa-lo é facil! Execute o programa e coloque as informações que ele pedir.
+Para usa-lo é facil! Execute o programa e coloque as informações que ele vai pedir.
 ___________________________________________________________________________________________________________________________________________________________________
 
 Eu espero que esse programa tenha sido útil para você que esta lendo. 

@@ -3,7 +3,7 @@ Script para excluir amigos no League of Legends.  |
 __________________________________________________|
 
 Olá, meu nome é Luiz Miguel. 
-Recentemente, eu estava querendo excluir alguns amigos no League of Legends, só que.. ERA 260 AMIGOS! Eu não queria excluir um por um, manualmente. 
+Recentemente, eu estava querendo excluir alguns amigos no League of Legends, só que.. ERAM 260 AMIGOS! Eu não queria excluir um por um, manualmente. 
 Então, decidi criar um script para excluir esses amigos. 
 
 Usando a linguagem Python, criei um codigo simples com as bibliotecas: PySimpleGUI, time, pyautogui.

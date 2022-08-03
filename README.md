@@ -11,7 +11,7 @@ Criei um arquivo chamado 'script' para desenvolver umas funções do pyautogui, 
 ___________________________________________________________________________________________________________________________________________________________________
 
 Sobre o programa:
-Bem, o 'unfriend.exe' está definido para ser usado com a resolução do Client em 1024x576. Por enquanto, só adcionei essa resolução.
+Bem, o 'unfriend.exe' está definido para ser usado com a resolução do Client em 1024x576. Por enquanto, só adicionei essa resolução.
 Caso você esteja rodando o script e de repente, ele para de excluir os amigos, feche o programa e verifique se a primeira pessoa da sua lista de amizades é uma
 conta fantasma (conta sem icone). Após ter feito a verificação, inicie o programa de novo.
 
